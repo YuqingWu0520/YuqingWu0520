@@ -1,16 +1,31 @@
-### Yuqing Wu · 伍雨晴
+<h2>Yuqing Wu <sub>伍雨晴</sub></h2>
 
-Joint PhD student, School of Public Health, **Imperial College London** (MRC Centre for Environment and Health) · PhD candidate, **Jiangnan University**
+**Population proteomics · Inflammation · Healthy ageing**
 
-I develop plasma proteomic signatures of inflammation and test whether they predict healthy longevity across large population cohorts (UK Biobank, EPIC, REACT, Airwave) and proteomic platforms (Olink, SomaScan).
+Joint PhD Student, School of Public Health, **Imperial College London** (MRC Centre for Environment and Health)<br>
+PhD Candidate, **Jiangnan University** · thesis defence expected June 2027
 
-- Website: [yuqingwu0520.github.io](https://yuqingwu0520.github.io)
-- CV: [Yuqing_Wu_CV.pdf](https://yuqingwu0520.github.io/Yuqing_Wu_CV.pdf)
-- ORCID: [0000-0003-3140-166X](https://orcid.org/0000-0003-3140-166X)
-- Email: y.wu3@imperial.ac.uk
+I develop plasma proteomic signatures of inflammation and test whether they predict healthy longevity across large population cohorts and proteomic platforms.
 
-**Interests:** population proteomics · inflammaging · healthspan · risk prediction and external validation · climate, heat and cardiometabolic health · diet, microbiome and the gut–brain axis
+[Website](https://yuqingwu0520.github.io) · [CV (PDF)](https://yuqingwu0520.github.io/Yuqing_Wu_CV.pdf) · [ORCID](https://orcid.org/0000-0003-3140-166X) · [Email](mailto:y.wu3@imperial.ac.uk)
 
-**Tools:** R · Python · Linux · survival analysis · penalised regression · trusted research environments · multi-omics
+---
 
-*Seeking a postdoctoral position from July 2027 (United States or Singapore).*
+#### Current research · Imperial College London
+- **One inflammation score, four cohorts.** A 69-protein inflammation score for healthspan, derived from 2,920 Olink proteins in 36,147 UK Biobank participants and applied with fixed weights in EPIC (SomaScan), REACT and Airwave. *Manuscript in preparation.*
+- **Inflammation and proteomic ageing clocks.** A head-to-head comparison as predictors of healthspan. *Manuscript in preparation.*
+- **Heat and cardiometabolic health.** Ambient temperature, blood pressure and hospital admissions in about 470,000 UK Biobank participants.
+
+#### Selected publications
+- **Wu Y**\*, Jha R\*, *et al.* Probiotic *L. plantarum* HNU082 relieves ulcerative colitis through intestinal barrier, immunity, microbiota and metabolic pathways. *Microbiology Spectrum* 2022. [doi](https://doi.org/10.1128/spectrum.01651-22) · 270+ citations
+- **Wu Y**, Liu J. Lycopene mitigates obesity-related cognitive decline via lipid metabolism and taurine–glutathione pathways. *Clinical Nutrition* 2025. [doi](https://doi.org/10.1016/j.clnu.2025.06.005)
+- **Wu Y**\*, Li A\*, *et al.* *L. plantarum* HNU082 alleviates DSS-induced colitis by regulating the gut microbiome. *Food & Function* 2022. [doi](https://doi.org/10.1039/d2fo02303b)
+
+Nine peer-reviewed papers, eight as first or joint first author. [Full list →](https://yuqingwu0520.github.io/#publications)
+
+#### Methods
+`R` `Python` `Bash/Linux` · penalised Cox and survival models · discrimination, calibration and external validation · case-crossover · trusted research environments · Olink and SomaScan · lipidomics · metagenomics · RNA-seq
+
+---
+
+*Seeking a postdoctoral position from July 2027 in population proteomics, ageing or environmental epidemiology, in the United States or Singapore.*
