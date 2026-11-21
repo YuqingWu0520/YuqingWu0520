@@ -7,7 +7,7 @@ PhD Candidate, **Jiangnan University** · thesis defence expected June 2027
 
 I develop plasma proteomic signatures of inflammation and test whether they predict healthy longevity across large population cohorts and proteomic platforms.
 
-[Website](https://yuqingwu0520.github.io) · [CV (PDF)](https://yuqingwu0520.github.io/Yuqing_Wu_CV.pdf) · [ORCID](https://orcid.org/0000-0003-3140-166X) · [LinkedIn](https://www.linkedin.com/in/yuqing-wu-proteomics/) · [Email](mailto:y.wu3@imperial.ac.uk)
+[Website](https://yuqingwu0520.github.io) · [CV (PDF)](https://yuqingwu0520.github.io/Yuqing_Wu_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=GdOddpIAAAAJ) · [ORCID](https://orcid.org/0000-0003-3140-166X) · [LinkedIn](https://www.linkedin.com/in/yuqing-wu-proteomics/) · [Email](mailto:y.wu3@imperial.ac.uk)
 
 ---
 
