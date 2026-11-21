@@ -4,10 +4,10 @@ Joint PhD student, School of Public Health, **Imperial College London** (MRC Cen
 
 I develop plasma proteomic signatures of inflammation and test whether they predict healthy longevity across large population cohorts (UK Biobank, EPIC, REACT, Airwave) and proteomic platforms (Olink, SomaScan).
 
-- 🌐 Website: [yuqingwu0520.github.io](https://yuqingwu0520.github.io)
-- 📄 CV: [Yuqing_Wu_CV.pdf](https://yuqingwu0520.github.io/Yuqing_Wu_CV.pdf)
-- 🆔 ORCID: [0000-0003-3140-166X](https://orcid.org/0000-0003-3140-166X)
-- ✉️ y.wu3@imperial.ac.uk
+- Website: [yuqingwu0520.github.io](https://yuqingwu0520.github.io)
+- CV: [Yuqing_Wu_CV.pdf](https://yuqingwu0520.github.io/Yuqing_Wu_CV.pdf)
+- ORCID: [0000-0003-3140-166X](https://orcid.org/0000-0003-3140-166X)
+- Email: y.wu3@imperial.ac.uk
 
 **Interests:** population proteomics · inflammaging · healthspan · risk prediction and external validation · climate, heat and cardiometabolic health · diet, microbiome and the gut–brain axis
 
