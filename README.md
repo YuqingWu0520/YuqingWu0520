@@ -12,7 +12,7 @@ I develop plasma proteomic signatures of inflammation and test whether they pred
 ---
 
 #### Current research · Imperial College London
-- **One inflammation score, four cohorts.** A 69-protein inflammation score for healthspan, derived from 2,920 Olink proteins in 36,147 UK Biobank participants and applied with fixed weights in EPIC (SomaScan), REACT and Airwave. *Manuscript in preparation.*
+- **One inflammation score, four cohorts.** An inflammation protein score for healthspan, developed with Olink proteomics in 36,147 UK Biobank participants and tested with fixed weights in EPIC (SomaScan), REACT and Airwave. *Manuscript in preparation.*
 - **Inflammation and proteomic ageing clocks.** A head-to-head comparison as predictors of healthspan. *Manuscript in preparation.*
 - **Heat and cardiometabolic health.** Ambient temperature, blood pressure and hospital admissions in about 470,000 UK Biobank participants.
 
