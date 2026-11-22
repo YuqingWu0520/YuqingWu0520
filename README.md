@@ -28,4 +28,4 @@ Nine peer-reviewed papers, eight as first or joint first author. [Full list →]
 
 ---
 
-*Seeking a postdoctoral position from July 2027 in population proteomics, ageing or environmental epidemiology, in the United States or Singapore.*
+*Seeking a postdoctoral position from July 2027 in population health, molecular epidemiology, multi-omics and ageing, in the United States or Singapore.*
